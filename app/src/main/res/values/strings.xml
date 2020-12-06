@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleGame</string>
+    <string name="facebook_app_id">774416349819866</string>
+
+    <array name="topics">
+        <item>Notifications</item>
+    </array>
+</resources>
